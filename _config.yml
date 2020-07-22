@@ -13,11 +13,10 @@ author: Nazareno Andrade
 
 navbar-links:
   Programa: "aboutme"
-  Semanas: "curso"
+  Conteúdo: "curso"
   Ferramentas:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Curso no Canvas: "https://canvas.instructure.com/"
+    - Atividades no Canvas: "https://canvas.instructure.com/"
+    - Discussões no Currents: "https://beautifuljekyll.com"
 
 # --- Logo --- #
 
