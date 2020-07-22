@@ -1,22 +1,23 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Visualização no PPGCC@UFCG
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Curso na pós de computação da UFCG
 
 # Your name to show in the footer
-author: Some Person
+author: Nazareno Andrade
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Programa: "aboutme"
+  Semanas: "curso"
+  Ferramentas:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Curso no Canvas: "https://canvas.instructure.com/"
 
 # --- Logo --- #
 
@@ -39,9 +40,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  facebook: deanattali
+  github: nazareno
+  twitter: zananeno
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,7 +73,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -168,7 +169,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/REcife"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
