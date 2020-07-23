@@ -15,8 +15,8 @@ navbar-links:
   Programa: "aboutme"
   Conteúdo: "curso"
   Ferramentas:
-    - Atividades no Canvas: "https://canvas.instructure.com/"
-    - Discussões no Currents: "https://beautifuljekyll.com"
+    - Canvas: "https://canvas.instructure.com/"
+    - Currents: "https://beautifuljekyll.com"
 
 # --- Logo --- #
 
