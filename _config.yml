@@ -13,7 +13,7 @@ author: Nazareno Andrade
 
 navbar-links:
   Programa: "aboutme"
-  Conteúdo: "curso"
+  Conteúdo: "conteudo"
   Ferramentas:
     - Canvas: "https://canvas.instructure.com/"
     - Currents: "https://beautifuljekyll.com"
