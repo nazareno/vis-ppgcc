@@ -25,6 +25,8 @@ Ao fim dessa semana, você deve conseguir:
 | Segunda 10/8 16h | Nos conhecermos e combinarmos funcionamento do curso |
 | Segunda 17/8 16h | Discussão sobre as leituras e atividades da semana 1 |
 
+Links do meet serão anunciados no canvas.
+
 #### Leia/assista
 
 1. Por que visualizamos dados? (vídeo)
@@ -33,14 +35,14 @@ Ao fim dessa semana, você deve conseguir:
 
 #### Faça
 
-1. [Compartilhe conosco um exemplo de visualização]() que você acha interessante e relacionado com o conteúdo dessa semana.
+1. [Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094) que você acha interessante e relacionado com o conteúdo dessa semana.
 1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui]()) e suba [nessa discussão]() (atenção: você precisará de lápis colorido para isso).
-1. Faça uma sonificação de dados usando o duotone
+1. Faça uma sonificação de dados usando o duotone (será usada no próximo passo)
 1. Discuta com mais 2 colegas do curso os materiais da semana e produza um google doc que tem o nome dos 3 e diz em um parágrafo:
   1. quais os 2 conceitos mais novos dessa semana;
   1. quais os 2 conceitos mais difíceis / que ficaram menos claros essa semana;
   1. uma opinião do grupo sobre os auto-retratos com dados que vocês viram/fizeram
-  1. uma opinião de vocês sobre a sonificação que vocês fizeram
+  1. uma opinião de vocês sobre as sonificações que vocês fizeram
 
 Produza um documento compartilhado com 3 outros colegas elencando
 
