@@ -32,6 +32,8 @@ Links do meet serão anunciados no canvas.
 1. Por que visualizamos dados? (vídeo)
 1. Capítulo 1 do livro de Munzner (+ Quiz)
 1. Sobre mais maneiras de representar dados
+1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
+1. [Sobre sonificações e fisicalizações]("2020-07-23-sonificacoes-fisicalizacoes")
 
 #### Faça
 
@@ -47,8 +49,7 @@ Links do meet serão anunciados no canvas.
 Produza um documento compartilhado com 3 outros colegas elencando
 
 #### Opcional
-
-1. Capítulo 1 de The Thruthful Art
+1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica incomum
 1. [Visualização de Dados com Sotaque Brasileiro](https://www.youtube.com/watch?v=NMtDGrWrOig), vídeo da apresentação de Rodrigo Medeiros no DatavisLisboa.
 
 --------------
