@@ -15,10 +15,16 @@ Ao fim dessa semana, você deve conseguir:
 * ter uma visão ampla sobre possibilidades de visualização além dos exemplos mais convencionais que você provavelmente já conhece.
 
 #### Encontros
+
 | Quando           | O que   |
-| :------ |:--- | 
+| :------ |:--- |
 | Segunda 10/8 16h | Nos conhecermos e combinarmos funcionamento do curso |
 | Segunda 17/8 16h | Discussão sobre as leituras e atividades da semana 1 |
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+
 
 #### Leia/assista
 
