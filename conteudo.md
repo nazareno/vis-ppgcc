@@ -18,6 +18,10 @@ Ao fim dessa semana, você deve conseguir:
 | Segunda 10/8 16h | Nos conhecermos e combinarmos funcionamento do curso |
 | Segunda 17/8 16h | Discussão sobre as leituras e atividades da semana 1 |
 
+| Segunda 10/8 16h | blablabla   |
+|------------------|-------------|
+| Segunda 17/8 16h | bla bla bla |
+
 #### Leia/assista
 
 1. Por que visualizamos dados? (vídeo)
