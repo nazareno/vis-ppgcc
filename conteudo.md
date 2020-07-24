@@ -16,7 +16,7 @@ Ao fim dessa semana, você deve conseguir:
 
 #### Encontros
 | Quando           | O que   |
-|------------------|------------|
+| :------ |:--- | 
 | Segunda 10/8 16h | Nos conhecermos e combinarmos funcionamento do curso |
 | Segunda 17/8 16h | Discussão sobre as leituras e atividades da semana 1 |
 
@@ -24,12 +24,15 @@ Ao fim dessa semana, você deve conseguir:
 
 1. Por que visualizamos dados? (vídeo)
 1. Capítulo 1 do livro de Munzner (+ Quiz)
+1. Mais sobre maneiras de representar dados
+1.
 
 #### Faça
 
-1. Data portrait
 1. Compartilhe conosco um exemplo de visualização que você acha interessante e relacionado com o conteúdo dessa semana.
-1. Uma sonificação de dados
+1. Crie um auto-retrato com dados seguindo essas instruções e suba para nosso drive.
+1. Faça uma sonificação de dados usando o duotone
+1.
 
 #### Opcional
 
