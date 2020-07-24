@@ -15,7 +15,7 @@ navbar-links:
   Programa: "aboutme"
   Conteúdo: "conteudo"
   Ferramentas:
-    - Canvas: "https://canvas.instructure.com/"
+    - Canvas: "https://canvas.instructure.com/courses/2189805"
     - Currents: "https://beautifuljekyll.com"
 
 # --- Logo --- #
@@ -147,7 +147,7 @@ footer-link-col: "#404040"
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance) 
+#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
 #  reCaptcha:
 #    siteKey  : # Use your own site key, you need to apply for one on Google
 #    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
