@@ -1,10 +1,10 @@
 # Conteúdo
 
 O conteúdo da disciplina é organizado em semanas.
-Nossos encontros ao-vivo principalmente nas **segundas, 16-18h**, mas ocasionalmente também nas quintas-feiras 14-16h.
+Nossos encontros ao-vivo acontecem principalmente nas **segundas, 16-18h**, mas ocasionalmente também nas quintas-feiras 14-16h.
 
 {: .box-note}
-**Sobre prazos:** As atividades são todas postadas no Canvas, geralmente com detalhes extra e com prazos ao longo da semana. Revise os prazos no Canvas no início da semana e se programe de acordo.
+As atividades são todas postadas no Canvas, geralmente com detalhes extra e com prazos ao longo da semana. Revise os prazos no Canvas no início da semana e se programe de acordo.
 
 {: .box-note}
 As leituras são acompanhadas de quizzes, que também têm prazos.
@@ -18,7 +18,7 @@ Ao fim dessa semana, você deve conseguir:
 * argumentar sobre sua utilidade para análise de dados e comunicação, e
 * ter uma visão ampla sobre possibilidades de visualização além dos exemplos mais convencionais que você provavelmente já conhece.
 
-#### Encontros
+### Encontros
 
 | Quando           | O que   |
 | :------ |:--- |
@@ -27,13 +27,13 @@ Ao fim dessa semana, você deve conseguir:
 
 Links do meet serão anunciados no canvas.
 
-#### Leia/assista
+### Leia/assista
 
 1. Por que visualizamos dados? (vídeo)
 1. Capítulo 1 do livro de Munzner (+ Quiz)
 1. Sobre mais maneiras de representar dados
 1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
-1. [Sobre sonificações e fisicalizações](/2020-07-23-sonificacoes-fisicalizacoes)
+1. [Sobre sonificações e fisicalizações](2020-07-23-sonificacoes-fisicalizacoes)
 
 #### Faça
 
