@@ -2,9 +2,7 @@
 layout: post
 title: Onde ver visualizações
 subtitle: Sites e perfis para se informar
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/5364233472_19ea995ff3_b.jpg
 tags: [nao-convencionais]
 ---
 
@@ -14,6 +12,6 @@ Para várias atividades do curso você precisará de um repertório de exemplos 
 * [Junk Charts](https://junkcharts.typepad.com/) analisa e comenta visualizações
 * O [Nexo Jornal](nexojornal.com.br) tem uma das melhores editorias de visualização do Brasil
 * O [The pudding](https://pudding.cool) é um grupo incrível de narrativas visuais na web
-* O [Distill](https://distill.pub/) mostra o que publicações científicas podem ser se abraçarem a interatividade, narrativas além do convencional e um foco em visualização de dados. 
+* O [Distill](https://distill.pub/) mostra o que publicações científicas podem ser se abraçarem a interatividade, narrativas além do convencional e um foco em visualização de dados.
 * O [Datavizbr](https://medium.com/datavizbr) publica conteúdo sobre visualização em português e com foco no Brasil
 * Eu mantenho uma lista sempre incompleta de perfis do twitter relacionados à ciência de dados [no Brasil](https://twitter.com/i/lists/1104856158337146886) e [no exterior](https://twitter.com/i/lists/1104856254927814657).
