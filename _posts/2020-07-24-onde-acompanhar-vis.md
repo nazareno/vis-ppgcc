@@ -2,6 +2,7 @@
 layout: post
 title: Onde ver visualizações
 subtitle: Sites e perfis para se informar
+cover-img: /assets/img/5364233472_19ea995ff3_b.jpg
 thumbnail-img: /assets/img/5364233472_19ea995ff3_b.jpg
 tags: [nao-convencionais]
 ---
