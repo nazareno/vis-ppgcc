@@ -9,6 +9,9 @@ description: Curso na pós de computação da UFCG
 # Your name to show in the footer
 author: Nazareno Andrade
 
+baseurl: http://nazareno.github.io/vis-ppgcc/
+
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
