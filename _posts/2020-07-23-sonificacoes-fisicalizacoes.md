@@ -2,9 +2,9 @@
 layout: post
 title: Representações de dados não visuais
 subtitle: A visão é só um dos sentidos
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/Semiconductor-20Hz-9.jpg
+thumbnail-img: /assets/img/Semiconductor-20Hz-9.jpg
+share-img: /assets/img/Semiconductor-20Hz-9.jpg
 tags: [nao-convencionais]
 ---
 
