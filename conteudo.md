@@ -33,7 +33,7 @@ Links do meet serão anunciados no canvas.
 1. Capítulo 1 do livro de Munzner (+ Quiz)
 1. Sobre mais maneiras de representar dados
 1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
-1. [Sobre sonificações e fisicalizações](2020-07-23-sonificacoes-fisicalizacoes)
+1. [Sobre sonificações e fisicalizações]({% post_url 2020-07-23-sonificacoes-fisicalizacoes %})
 
 #### Faça
 
