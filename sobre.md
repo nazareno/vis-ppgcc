@@ -8,9 +8,7 @@ Essa é a página do curso de Visualização de Dados no [Programa de Pós-gradu
 
 Como quem está participando do curso está em uma pós de Computação, há um certo viés no material para esse público. Como é um curso para a pós-graduação, o tratamento dos assuntos também é mais rápido e profundo do que em um curso de introdução ou da graduação.
 
-Esse vídeo complementa essa apresentação:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L6b8RBrB-n4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Tem um pouco mais de informação no post de [boas-vindas](/vis-ppgcc/sobre).
 
 ### Sobre o autor
 
@@ -25,4 +23,4 @@ Meu site é sempre miseravelmente desatualizado, então pra conhecer meu backgro
 * [Relatório sobre Participação de Sócios de Empresas no Financiamento de Campanhas em 2018](https://parlametria.org/relatorios/2019/11/setores-economicos-na-campanha-2018), feito no projeto [Parlametria](www.parlametria.org.br).
 * [Olho N'Água](http://olhonagua.insa.gov.br/), projeto em colaboração com o Instituto Nacional do Semiárido.
 * [Um TEDx onde explico o House of Cunha e o Quem me Representa](https://www.youtube.com/watch?v=Ju9o7kANmhc). O primeiro é um projeto de visualização de dados.
-* [Capital dos Candidatos](http://capitaldoscandidatos.info/), uma colaboração com o Ministério Público da Paraíba. 
+* [Capital dos Candidatos](http://capitaldoscandidatos.info/), uma colaboração com o Ministério Público da Paraíba.

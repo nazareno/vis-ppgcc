@@ -21,7 +21,7 @@ Ao fim dessa semana, você deve conseguir:
 <br>
 ### Encontros
 
-| Quando           | O que   |
+| Quando  | O que   |
 | :------ |:--- |
 | Segunda 10/8 16h | Nos conhecermos e combinarmos funcionamento do curso |
 | Segunda 17/8 16h | Discussão sobre as leituras e atividades da semana 1 |
@@ -36,26 +36,26 @@ Sobre o curso:
 1. [O programa do curso](/vis-ppgcc/programa)
 
 Conteúdo:
-1. Por que visualizamos dados? (vídeo)
+1. [Esse](https://www.youtube.com/watch?v=iCMoDLgER5I) e [esse](https://www.youtube.com/watch?v=plN8D93jZV0) vídeos da profa. Raquel Minardi da UFMG motivando Visualização de Dados (35 mins).
+1. Por que visualizar dados? (vídeo)
 1. Capítulo 1 do livro de Munzner (+ Quiz)
-1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
 1. [Sobre sonificações e fisicalizações](/vis-ppgcc/2020-07-23-sonificacoes-fisicalizacoes)
 
 ### Faça
 
-1. **[Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094)** que você acha interessante e relacionado com o conteúdo dessa semana. Se precisar de ideias ou de onde procurar, olha [esse post nesse site](/2020-07-24-onde-acompanhar-vis).
-1. Faça uma sonificação de dados usando o [Twotone](https://twotone.io/) (será usada no próximo passo)
+1. **[Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094)** que você acha interessante e relacionado com o conteúdo dessa semana. Se precisar de ideias ou de onde procurar, olhe [esse post](/2020-07-24-onde-acompanhar-vis).
+1. Faça uma sonificação de dados usando o [Twotone](https://twotone.io/) (será usada no próximo passo). Salve o resultado para mostrar aos colegas no próximo passo.
 1. Discuta com mais 2 colegas do curso os materiais da semana e **[submeta aqui](https://canvas.instructure.com/courses/2189805/assignments/16396860?module_item_id=33787105)** um google doc que tem o nome dos 3 e diz:
     * quais os 2 conceitos mais novos dessa semana;
     * quais os 2 conceitos mais difíceis / que ficaram menos claros essa semana;
     * uma opinião do grupo sobre os auto-retratos com dados que vocês viram/fizeram
     * uma opinião de vocês sobre as sonificações que vocês fizeram: dava para entender? era agradável de usar? onde vocês usariam uma sonificação?
 
-Produza um documento compartilhado com 3 outros colegas elencando
 
 ### Opcional
-1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica incomum
+1. [Site com apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
 1. [Visualização de Dados com Sotaque Brasileiro](https://www.youtube.com/watch?v=NMtDGrWrOig), vídeo da apresentação de Rodrigo Medeiros no DatavisLisboa.
+1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica incomum
 
 <br>
 --------------
@@ -65,6 +65,7 @@ Produza um documento compartilhado com 3 outros colegas elencando
 Ao fim dessa semana, você deve conseguir:
 * Reconhecer
 
+<br>
 ### Encontros
 
 | Quando           | O que   |
