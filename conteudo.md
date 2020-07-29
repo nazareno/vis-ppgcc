@@ -29,6 +29,10 @@ Links do meet serão anunciados no canvas.
 
 ### Leia/assista
 
+Sobre o curso:
+1. [A página de apresentação do curso](/vis-ppgcc/sobre).
+
+Conteúdo:
 1. Por que visualizamos dados? (vídeo)
 1. Capítulo 1 do livro de Munzner (+ Quiz)
 1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
