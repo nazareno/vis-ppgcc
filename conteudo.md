@@ -56,18 +56,22 @@ Produza um documento compartilhado com 3 outros colegas elencando
 ## Semana 2: Sobre dados
 
 Ao fim dessa semana, você deve conseguir:
-*
+* Reconhecer
 
 #### Encontros
 
 | Quando           | O que   |
 | :------ |:--- |
-| Segunda xxxx 16h |  |
+| Segunda 24/8 16h | Para discutirmos as leituras e exercícios |
 
 #### Leia/assista
 
+1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
+1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados.
+1. [A Multi-Level Typology of Abstract Visualization Tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf), de Brehmen e Munzner. Não se preocupe com a Seção 5.
 
 #### Faça
+
 
 
 #### Opcional

@@ -15,4 +15,5 @@ Para várias atividades do curso você precisará de um repertório de exemplos 
 * O [The pudding](https://pudding.cool) é um grupo incrível de narrativas visuais na web
 * O [Distill](https://distill.pub/) mostra o que publicações científicas podem ser se abraçarem a interatividade, narrativas além do convencional e um foco em visualização de dados.
 * O [Datavizbr](https://medium.com/datavizbr) publica conteúdo sobre visualização em português e com foco no Brasil
+* O [Multiple Views](https://medium.com/multiple-views-visualization-research-explained) é uma página no Medium que comenta e explica resultados de pesquisas em Visualização de Dados. 
 * Eu mantenho uma lista sempre incompleta de perfis do twitter relacionados à ciência de dados [no Brasil](https://twitter.com/i/lists/1104856158337146886) e [no exterior](https://twitter.com/i/lists/1104856254927814657).

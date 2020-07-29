@@ -15,11 +15,13 @@ author: Nazareno Andrade
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Programa: "aboutme"
+  Sobre o curso: "sobre"
+  Programa: "programa"
   Conteúdo: "conteudo"
   Ferramentas:
     - Canvas: "https://canvas.instructure.com/courses/2189805"
-    - Currents: "https://beautifuljekyll.com"
+    - Slack: "https://beautifuljekyll.com"
+
 
 # --- Logo --- #
 
