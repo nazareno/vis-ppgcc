@@ -63,7 +63,10 @@ Conteúdo:
 ## Semana 2: Sobre dados
 
 Ao fim dessa semana, você deve conseguir:
-* Reconhecer
+* Descrever o conjunto de dados usado em uma visualização
+* Enumerar para uma viz/conjunto os dados presentes, com sua semântica e seu tipo
+* Identificar tarefas de análise mais/menos facilitadas por uma vis
+* Formular tarefas a partir de um conjunto de dados
 
 <br>
 ### Encontros
@@ -80,13 +83,27 @@ Ao fim dessa semana, você deve conseguir:
 
 ### Faça
 
-
-
 #### Opcional
 
+
 ## Semana 3: Visão crítica de dados e Visualização
+<!-- ### Faça
 
+1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)) e **suba [nessa discussão](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)** (atenção: você precisará de lápis colorido, que será útil mais vezes no curso, então aproveita pra comprar o material didático). -->
 
-### Faça
+## Semana 4: Marcas, canais e dados tabulares
 
-1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)) e **suba [nessa discussão](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)** (atenção: você precisará de lápis colorido, que será útil mais vezes no curso, então aproveita pra comprar o material didático).
+## Semana 5: Ferramentas
+
+## Semana 6: Laboratório de Visualização
+
+## Semana 7: Interação e múltiplas visões
+## Semana 8: Narrativas
+## Semana 9: Laboratório 2 de visualização
+## Semana 10: Discussõa de textos sobre Visualização
+## Semana 11: Mapas
+## Semana 12: Cores
+## Semana 13: Grafos
+## Semana 14: Mais grafos
+## Semana 15: Conversas com praticantes
+## Semana 16: Projeto
