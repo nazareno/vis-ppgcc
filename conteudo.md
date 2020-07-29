@@ -28,11 +28,12 @@ Ao fim dessa semana, você deve conseguir:
 
 Links do meet serão anunciados no canvas.
 
-<br>
 ### Leia/assista
 
 Sobre o curso:
-1. [A página de apresentação do curso](/vis-ppgcc/sobre).
+1. [Nosso post de boas-vindas](/vis-ppgcc/2020-07-22-boas-vindas)
+1. [A página de apresentação do curso](/vis-ppgcc/sobre)
+1. [O programa do curso](/vis-ppgcc/programa)
 
 Conteúdo:
 1. Por que visualizamos dados? (vídeo)
@@ -40,7 +41,6 @@ Conteúdo:
 1. [Apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
 1. [Sobre sonificações e fisicalizações](/vis-ppgcc/2020-07-23-sonificacoes-fisicalizacoes)
 
-<br>
 ### Faça
 
 1. **[Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094)** que você acha interessante e relacionado com o conteúdo dessa semana. Se precisar de ideias ou de onde procurar, olha [esse post nesse site](/2020-07-24-onde-acompanhar-vis).
@@ -53,10 +53,11 @@ Conteúdo:
 
 Produza um documento compartilhado com 3 outros colegas elencando
 
-#### Opcional
+### Opcional
 1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica incomum
 1. [Visualização de Dados com Sotaque Brasileiro](https://www.youtube.com/watch?v=NMtDGrWrOig), vídeo da apresentação de Rodrigo Medeiros no DatavisLisboa.
 
+<br>
 --------------
 
 ## Semana 2: Sobre dados
