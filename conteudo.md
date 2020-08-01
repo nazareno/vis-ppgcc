@@ -9,6 +9,8 @@ As atividades são todas postadas no Canvas, geralmente com detalhes extra e com
 {: .box-note}
 As leituras são acompanhadas de quizzes, que também têm prazos.
 
+<br>
+
 --------------
 
 ## Semana 1: O quê e por quê
@@ -37,9 +39,10 @@ Sobre o curso:
 
 Conteúdo:
 1. [Esse](https://www.youtube.com/watch?v=iCMoDLgER5I) e [esse](https://www.youtube.com/watch?v=plN8D93jZV0) vídeos da profa. Raquel Minardi da UFMG motivando Visualização de Dados (35 mins).
-1. Por que visualizar dados? (vídeo)
 1. Capítulo 1 do livro de Munzner ([+ Quiz](https://canvas.instructure.com/courses/2189805/quizzes/5687501))
+1. [Por que visualizar dados?](https://youtu.be/q6-hJqyq2JA) (19 mins), vídeo meu comentando as leituras da semana.
 1. [Sobre sonificações e fisicalizações](/vis-ppgcc/2020-07-23-sonificacoes-fisicalizacoes) (Explore os links)
+
 
 ### Faça
 
