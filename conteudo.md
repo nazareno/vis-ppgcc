@@ -61,6 +61,7 @@ Conteúdo:
 1. [Site com apanhado histórico de visualizações de dados antigas](https://history.infowetrust.com/)
 1. [Visualização de Dados com Sotaque Brasileiro](https://www.youtube.com/watch?v=NMtDGrWrOig), vídeo da apresentação de Rodrigo Medeiros no DatavisLisboa.
 1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica com lápis e papel e sobre small data.
+1. *[O mapa não é o território](https://fs.blog/2015/11/map-and-territory/)* é uma metáfora importante para visualização. Se fizéssemos mapas que são territórios, cairíamos [nesse conto de Borges](https://poro.redezero.org/biblioteca/textos-referencias/do-rigor-na-ciencia-jorge-luis-borges/).
 
 <br>
 
