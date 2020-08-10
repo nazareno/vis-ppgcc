@@ -32,7 +32,7 @@ Nosso curso será organizado em semanas. Cada semana tem em torno de 6h de ativi
 Como não há um ambiente virtual único que concentre o que precisamos com boa qualidade, usaremos vários:  
 * Esse site concentrará a publicação das atividades.
 * Quizzes e atividades práticas serão entregues no Canvas
-* Avisos e discussões em texto serão feitas no Google Currents
+* Avisos e discussões em texto serão feitas no slack
 * Videoconferências serão realizadas no Google Meet
 
 Se você estiver com problema para acessar qualquer dos 4 ambientes, fale comigo o quanto antes.
@@ -41,7 +41,7 @@ Se você estiver com problema para acessar qualquer dos 4 ambientes, fale comigo
 * Tarefas de análise e discussão online: 50% da nota final
 * ~4 laboratórios que incluem perguntas e atividades de implementação (avalia objetivos 1, 3, e 4): 50% da nota
 
-Sobre prazos: os prazos das atividades são firmes. Isso quer dizer que entregar algo incompleto é melhor que não entregar. Se o prazo for ruim porque coincide com outros prazos ou estiver muito curto, me avisem o quanto antes e mudamos. Mas passou, passou.
+Sobre prazos: os prazos das atividades são firmes. Isso quer dizer que entregar algo incompleto é melhor que não entregar. Se o prazo for ruim porque coincide com outros prazos ou estiver muito curto, me avise o quanto antes e mudamos. Mas passou, passou.
 
 ### Bibliografia
 Usaremos vídeos e textos selecionados em combinação com o livro-texto **Visualization Analysis and Design**, de Tamara Munzner. Esse é um livro excelente para iniciar em Visualização de Dados. Caso você queira ir ainda além dele, é possível se aprofundar com *Information Visualization: Perception for Design*, de Colin Ware.
