@@ -54,7 +54,7 @@ Conteúdo:
     * quais os 2 conceitos ou conteúdos mais difíceis ou que ficaram menos claros essa semana;
     * uma opinião de vocês sobre as sonificações que vocês fizeram: dava para entender? era agradável de usar? onde vocês usariam uma sonificação?
     * *Lembre de deixar a permissão do google doc com leitura para qualquer pessoa.*
-1. **[Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094)** que você acha interessante e relacionado com o conteúdo dessa semana. Se precisar de ideias ou de onde procurar, olhe [esse post](/2020-07-24-onde-acompanhar-vis).
+1. **[Compartilhe conosco um exemplo de visualização](https://canvas.instructure.com/courses/2189805/discussion_topics/9421094)** que você acha interessante e relacionado com o conteúdo dessa semana. Se precisar de ideias ou de onde procurar, olhe [esse post](/vis-ppgcc/2020-07-24-onde-acompanhar-vis).
 
 ### Opcional
 
