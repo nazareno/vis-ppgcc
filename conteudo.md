@@ -82,25 +82,28 @@ Ao fim dessa semana, você deve conseguir:
 | :------ |:--- |
 | Segunda 24/8 16h | Para discutirmos as leituras e exercícios |
 
-Links serão enviados mais perto.
+Link no canvas.
 
 ### Leia/assista
 
-1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789) (+ Quiz)
+1. [Texto de introdução à semana](/vis-ppgcc/2020-08-14-contexto).
+1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
 1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados.
-1. [A Multi-Level Typology of Abstract Visualization Tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf), de Brehmen e Munzner. Não se preocupe com a Seção 5. (+ Quiz)
+1. [A Multi-Level Typology of Abstract Visualization Tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf), de Brehmen e Munzner. Não se preocupe com a Seção 5.
 
 ### Faça
 
+1. [Quiz sobre o capítulo de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/35132026)
+1. Quiz sobre os dois artigos que falam de tarefas
+1. [Desconstrua visualizações imaginando os dados usados nelas](https://canvas.instructure.com/courses/2189805/modules/items/35134081)
 1. Discuta com mais 2 colegas do curso os materiais da semana e **[submeta aqui](https://canvas.instructure.com/courses/2189805/assignments/16396860?module_item_id=33787105)** um google doc que tem o nome dos 3 e diz:
   * quais os 2 conceitos ou visões mais novos dessa semana para vocês;
   * quais os 2 conceitos ou conteúdos mais difíceis ou que ficaram menos claros essa semana;
-  * uma opinião de vocês sobre as sonificações que vocês fizeram: dava para entender? era agradável de usar? onde vocês usariam uma sonificação?
 
 ### Opcional
 
 * [On the Theory of Scales of Measurement](https://psychology.okstate.edu/faculty/jgrice/psyc3214/Stevens_FourScales_1946.pdf). S. S. Stevens na Science em 1946 propondo as escalas que até hoje aparecem na maior parte dos livros-texto.
-* [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*. 
+* [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*.
 
 <br>
 
