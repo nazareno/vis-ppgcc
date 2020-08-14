@@ -99,7 +99,8 @@ Links serão enviados mais perto.
 
 ### Opcional
 
-* [On the Theory of Scales of Measurement](https://psychology.okstate.edu/faculty/jgrice/psyc3214/Stevens_FourScales_1946.pdf). S. S. Stevens na Science em 1946.
+* [On the Theory of Scales of Measurement](https://psychology.okstate.edu/faculty/jgrice/psyc3214/Stevens_FourScales_1946.pdf). S. S. Stevens na Science em 1946 propondo as escalas que até hoje aparecem na maior parte dos livros-texto.
+* [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*. 
 
 <br>
 
