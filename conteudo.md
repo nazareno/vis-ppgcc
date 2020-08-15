@@ -88,17 +88,17 @@ Link no canvas.
 
 1. [Texto de introdução à semana](/vis-ppgcc/2020-08-14-contexto).
 1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
-1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados.
-1. [A Multi-Level Typology of Abstract Visualization Tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf), de Brehmen e Munzner. Não se preocupe com a Seção 5.
+1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados. Não se preocupe com a Seção 6.
+1. [Cap. 3 do livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977019?module_item_id=33781794).
+
 
 ### Faça
 
 1. [Quiz sobre o capítulo de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/35132026)
-1. Quiz sobre os dois artigos que falam de tarefas
+1. [Quiz sobre os dois textos que falam de tarefas](https://canvas.instructure.com/courses/2189805/modules/items/35162145)
 1. [Desconstrua visualizações imaginando os dados usados nelas](https://canvas.instructure.com/courses/2189805/modules/items/35134081)
-1. Discuta com mais 2 colegas do curso os materiais da semana e **[submeta aqui](https://canvas.instructure.com/courses/2189805/assignments/16396860?module_item_id=33787105)** um google doc que tem o nome dos 3 e diz:
-  * quais os 2 conceitos ou visões mais novos dessa semana para vocês;
-  * quais os 2 conceitos ou conteúdos mais difíceis ou que ficaram menos claros essa semana;
+1. Proponha tarefas de análise sobre um conjunto de dados com mais dois/duas colegas do curso seguindo as instruções dessa tarefa. 
+1. Nos diga nesse form os 2 conceitos ou conteúdos mais difíceis ou que ficaram menos claros essa semana.
 
 ### Opcional
 
