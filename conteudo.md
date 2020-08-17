@@ -90,15 +90,15 @@ Link no canvas.
 1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
 1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados. Não se preocupe com a Seção 6.
 1. [Cap. 3 do livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977019?module_item_id=33781794).
-
+1. Vídeo comentando dados e tarefas em algumas visualizações (*em breve*)
 
 ### Faça
 
-1. [Quiz sobre o capítulo de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/35132026)
-1. [Quiz sobre os dois textos que falam de tarefas](https://canvas.instructure.com/courses/2189805/modules/items/35162145)
-1. [Desconstrua visualizações imaginando os dados usados nelas](https://canvas.instructure.com/courses/2189805/modules/items/35134081)
-1. Proponha tarefas de análise sobre um conjunto de dados com mais dois/duas colegas do curso seguindo as instruções dessa tarefa. 
-1. Nos diga nesse form os 2 conceitos ou conteúdos mais difíceis ou que ficaram menos claros essa semana.
+1. **[Quiz sobre o capítulo de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/35132026)**
+1. **[Quiz sobre os dois textos que falam de tarefas](https://canvas.instructure.com/courses/2189805/modules/items/35162145)**
+1. **[Desconstrua visualizações](https://canvas.instructure.com/courses/2189805/modules/items/35134081)** identificando os dados usados nelas
+1. **Proponha tarefas de análise** sobre um conjunto de dados com mais dois/duas colegas do curso seguindo as instruções. (*em breve*)
+
 
 ### Opcional
 
