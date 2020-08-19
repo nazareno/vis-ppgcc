@@ -97,7 +97,7 @@ Link no canvas.
 1. **[Quiz sobre o capítulo de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/35132026)**
 1. **[Quiz sobre os dois textos que falam de tarefas](https://canvas.instructure.com/courses/2189805/modules/items/35162145)**
 1. **[Desconstrua visualizações](https://canvas.instructure.com/courses/2189805/modules/items/35134081)** identificando os dados usados nelas
-1. **Proponha tarefas de análise** sobre um conjunto de dados com mais dois/duas colegas do curso seguindo as instruções. (*em breve*)
+1. **[Proponha tarefas de análise](https://docs.google.com/document/d/1M9j5VjRNAp3qs1wS13uiktHHt6_YZ5OZxb2bsgfpRyg/edit)** sobre um conjunto de dados com mais dois/duas colegas do curso seguindo as instruções. [Link para submeter](https://canvas.instructure.com/courses/2189805/assignments/16394463).
 
 
 ### Opcional
