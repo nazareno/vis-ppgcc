@@ -2,10 +2,10 @@
 layout: post
 title: Transformações, além de dados
 subtitle: Há mais entre os dados e as tarefas do que diz a vã filosofia
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [definicoes]
-comments: true
+cover-img: /assets/img/industrial-steam-pipe.jpg
+thumbnail-img: /assets/img/industrial-steam-pipe.jpg
+share-img: /assets/img/industrial-steam-pipe.jpg
+tags: [definições]
 ---
 
 Ao pensar sobre o contexto de uma visualização, é fundamental que consigamos nos expressar e entender a relação entre os *dados disponíveis* e a visualização. Discutimos isso um pouco [ao comentar o contexto de uma visualização em outro post](/vis-ppgcc/2020-08-14-contexto), mas como relacionamentos frequentemente são complicados, vamos tentar entrar aqui em mais detalhes sobre essa relação.
@@ -25,4 +25,4 @@ O mais provável é que os dados não estavam já nesse formato que descrevi aci
 
 Para produzir os dados no formato usado na visualização é preciso partir desses **dados disponíveis** e aplicar **transformações** para produzir os **dados visualizados**. Uma transformação significa aplicar qualquer algoritmo aos dados, mas quase sempre é principalmente usar álgebra relacional nos dados: filtrar itens baseado em atributos (*where* em SQL), escolher apenas alguns atributos (*select*) criar novas colunas a partir das que temos (eg. a de % dos votos a partir do total daquele ano), calcular sumários estatísticos como médias, máximos, etc. (*group_by* + funções em SQL), ou cruzar dados (*joins*, os melhores).
 
-A razão pela qual estamos discutindo isso aqui é que esse processo de transformação faz parte do trabalho de quem está projetando visualizações a partir de dados. Os dados raramente estarão no formato ideal, e pensar neles apenas no formato inicialmente disponível restringe demais as suas possibilidades. Assim, o fluxo completo que usaremos pra pensar nosso trabalho inclui partir dos dados disponíveis, *conceber transformações* possíveis ou necessárias e projetar visualizações a partir dos dados disponíveis *ou transformados*. 
+A razão pela qual estamos discutindo isso aqui é que esse processo de transformação faz parte do trabalho de quem está projetando visualizações a partir de dados. Os dados raramente estarão no formato ideal, e pensar neles apenas no formato inicialmente disponível restringe demais as suas possibilidades. Assim, o fluxo completo que usaremos pra pensar nosso trabalho inclui partir dos dados disponíveis, *conceber transformações* possíveis ou necessárias e projetar visualizações a partir dos dados disponíveis *ou transformados*.

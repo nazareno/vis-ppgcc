@@ -5,7 +5,7 @@ subtitle: A visão é só um dos sentidos
 cover-img: /assets/img/Semiconductor-20Hz-9.jpg
 thumbnail-img: /assets/img/Semiconductor-20Hz-9.jpg
 share-img: /assets/img/Semiconductor-20Hz-9.jpg
-tags: [nao-convencionais]
+tags: [definições, inspirações]
 ---
 
 Estamos acostumados a ver dados representados de maneira verbal (com palavras, números, tabelas) e como formas geométricas como gráficos de linhas, pontos etc. Mas a mesma ideia de representar dados para analisarmos eles com nossa visão pode ser usada para outros sentidos.

@@ -4,7 +4,7 @@ title: Onde ver visualizações
 subtitle: Sites e perfis para se informar
 cover-img: /assets/img/5364233472_19ea995ff3_b.jpg
 thumbnail-img: /assets/img/5364233472_19ea995ff3_b.jpg
-tags: [links, inspirações]
+tags: [inspirações]
 ---
 
 Para várias atividades do curso você precisará de um repertório de exemplos de visualizações. Isso se cria acompanhando com mais atenção o que é publicado em veículos de mídia, redes sociais, etc. Além disso, visualização de dados é uma área onde é possível seguir no twitter ou em blogs as pessoas que estão inventando e discutindo a área. Aqui vão alguns links para lhe ajudar a acompanhar a área.
