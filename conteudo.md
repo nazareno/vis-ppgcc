@@ -90,7 +90,8 @@ Link no canvas.
 1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
 1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados. Não se preocupe com a Seção 6.
 1. [Cap. 3 do livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977019?module_item_id=33781794).
-1. Vídeo comentando dados e tarefas em algumas visualizações (*em breve*)
+1. [Vídeo meu comentando dados e conjuntos de dados](20 mins)
+1. [Exemplos de uso do framework de Munzner](https://docs.google.com/spreadsheets/d/1LtOusvqNboaJukeEsm-XctwfVAcSgpUxprfmsL6uaZ4/edit?usp=sharing) para desconstruir algumas visualizações.
 
 ### Faça
 
@@ -108,9 +109,24 @@ Link no canvas.
 <br>
 
 ## Semana 3: Visão crítica de dados e Visualização
-<!-- ### Faça
 
-1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)) e **suba [nessa discussão](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)** (atenção: você precisará de lápis colorido, que será útil mais vezes no curso, então aproveita pra comprar o material didático). -->
+### Leia/assista
+1. [Useful junk? The Effects of Visual Embellishment on
+Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
+1. Capítulos 2 e 5 do [livro Data Feminism](https://mutabit.com/repos.fossil/datafem/uv/datafem.pdf), de Catherine D’Ignazio e Lauren Klein.
+1. [Data Humanism, The Revolution will be Visualized](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), de Giorgia Lupi.
+
+### Faça
+1. Faça o [Visual Literacy Assessment Test](https://vlat.herokuapp.com/quiz)
+1. Quiz sobre Useful junk
+1. Quiz sobre Data Feminism
+1. Quiz sobre Data Humanism
+1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)) e **suba [nessa discussão](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)** (Se der, faça com lápis colorido. Se estiver complicado por causa da pandemia, seja criativo/a).
+
+### Adicional
+
+1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
+
 
 ## Semana 4: Marcas, canais e dados tabulares
 
