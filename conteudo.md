@@ -90,7 +90,7 @@ Link no canvas.
 1. [Cap. 2 do Livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977021?module_item_id=33781789)
 1. [Low-Level Components of Analytic Activity in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis05.pdf), de Amar, Eagan e Stasko, uma pesquisa empírica buscando padrões nas tarefas que as pessoas realizam com dados. Não se preocupe com a Seção 6.
 1. [Cap. 3 do livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977019?module_item_id=33781794).
-1. [Vídeo meu comentando dados e conjuntos de dados](20 mins)
+1. [Vídeo meu comentando dados e conjuntos de dados](https://youtu.be/pUayZqCBuiM) (20 mins)
 1. [Exemplos de uso do framework de Munzner](https://docs.google.com/spreadsheets/d/1LtOusvqNboaJukeEsm-XctwfVAcSgpUxprfmsL6uaZ4/edit?usp=sharing) para desconstruir algumas visualizações.
 
 ### Faça
@@ -110,23 +110,26 @@ Link no canvas.
 
 ## Semana 3: Visão crítica de dados e Visualização
 
+Ao fim dessa semana queremos:
+* Perceber tarefas abstratas ao interagir com uma visualização
+* Identificar e criticar estruturas de poder na produção de dados e em seus usos
+* Contrastar abordagens mais e menos humanizadas para análise e visualização de dados
+
 ### Leia/assista
-1. [Useful junk? The Effects of Visual Embellishment on
-Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
+1. O [Cap. 3 do livro de Munzner](https://canvas.instructure.com/courses/2189805/files/101977019?module_item_id=33781794) continuará sendo útil como referência sobre tarefas.
 1. Capítulos 2 e 5 do [livro Data Feminism](https://mutabit.com/repos.fossil/datafem/uv/datafem.pdf), de Catherine D’Ignazio e Lauren Klein.
-1. [Data Humanism, The Revolution will be Visualized](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), de Giorgia Lupi.
+1. [Data Humanism, The Revolution will be Visualized](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), de Giorgia Lupi. Tem muitas palestras dela online em TEDs e afins.
 
 ### Faça
-1. Faça o [Visual Literacy Assessment Test](https://vlat.herokuapp.com/quiz)
-1. Quiz sobre Useful junk
-1. Quiz sobre Data Feminism
-1. Quiz sobre Data Humanism
+1. **[Exercício de percepção de tarefas](https://docs.google.com/document/d/1Am7F9P5cp-CiLxOrup7Z9Xalisk5TD4mFsmKNLd1GLM/edit?usp=sharing)** de análise baseado no [Visual Literacy Assessment Test](https://www.bckwon.com/publication/vlat/). [Link para submeter o resultado](https://canvas.instructure.com/courses/2189805/assignments/17192612). Faça com mais 2 colegas.
+1. Quiz sobre Data Feminism e Data Humanism
+1. Documento em grupo refletindo a opinião de vocês sobre como esses textos impactam sua prática respondendo as duas perguntas abaixo. [Link para submeter o resultado]().
+  * O que cada um dos textos tenta mudar na nossa forma de praticar análise (incluindo visualização) de dados?
+  * O que vocês julgam que deveriam mudar na sua maneira de analisar dados a partir desse argumento?
 1. Crie um auto-retrato com dados seguindo [essas instruções](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) ([mais detalhadas aqui](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)) e **suba [nessa discussão](https://canvas.instructure.com/courses/2189805/discussion_topics/9421551)** (Se der, faça com lápis colorido. Se estiver complicado por causa da pandemia, seja criativo/a).
 
 ### Adicional
-
-1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
-
+1. [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/), de Mike Bostock.
 
 ## Semana 4: Marcas, canais e dados tabulares
 
@@ -135,7 +138,12 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 ## Semana 6: Laboratório de Visualização
 
 ## Semana 7: Interação e múltiplas visões
+
 ## Semana 8: Narrativas
+1. [Useful junk? The Effects of Visual Embellishment on
+Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
+1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
+
 ## Semana 9: Laboratório 2 de visualização
 ## Semana 10: Discussão de textos sobre Visualização
 ## Semana 11: Mapas
