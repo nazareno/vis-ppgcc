@@ -122,7 +122,8 @@ Ao fim dessa semana queremos:
 
 ### Faça
 1. **[Exercício de percepção de tarefas](https://docs.google.com/document/d/1Am7F9P5cp-CiLxOrup7Z9Xalisk5TD4mFsmKNLd1GLM/edit?usp=sharing)** de análise baseado no [Visual Literacy Assessment Test](https://www.bckwon.com/publication/vlat/). [Link para submeter o resultado](https://canvas.instructure.com/courses/2189805/assignments/17192612). Faça com mais 2 colegas.
-1. Quiz sobre Data Feminism e Data Humanism
+1. [Quiz sobre Data Feminism](https://canvas.instructure.com/courses/2189805/modules/items/35979630)
+1. [Quiz sobre Data Humanism](https://canvas.instructure.com/courses/2189805/quizzes/5950387)
 1. Documento em grupo refletindo a opinião de vocês sobre como esses textos impactam sua prática respondendo as duas perguntas abaixo. [Link para submeter o resultado](https://canvas.instructure.com/courses/2189805/assignments/17192904?module_item_id=35780003).
   * O que cada um dos textos tenta mudar na nossa forma de praticar análise (incluindo visualização) de dados?
   * O que vocês julgam que deveriam mudar na sua maneira de analisar dados a partir desse argumento?
@@ -131,6 +132,7 @@ Ao fim dessa semana queremos:
 ### Adicional
 1. [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/), de Mike Bostock.
 1. [Guia do Urban Institute](https://www.urban.org/elevate-data-equity/develop-equitable-data-practice) sobre práticas equitativas em torno de dados.
+1. [Datasheets for datasets](https://arxiv.org/pdf/1803.09010.pdf): uma abordagem para descrever contextos de conjuntos de dados.
 1. [Lista de leituras](http://ethics.fast.ai/syllabus/) de um curso do fast.ai sobre dados e Ética.
 
 ## Semana 4: Marcas, canais e dados tabulares
