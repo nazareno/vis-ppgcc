@@ -144,12 +144,12 @@ Ao fim dessa semana queremos:
 1. [Capítulo de Munzner sobre Marcas e Canais](https://canvas.instructure.com/courses/2189805/modules/items/36234333). Tem também um resumo legal [na primeira seção dessa página](https://www.ibm.com/design/v1/language/experience/data-visualization/visualization/) do IBM Design Language.
 1. [Vídeo meu sobre marcas e canais](https://youtu.be/jGmapVLr9Xg)
 1. [Capítulo de Munzner sobre uso do espaço para dados tabulares](https://canvas.instructure.com/courses/2189805/modules/items/36237756).
-1. Vídeo sobre usos do espaço e visualizações comuns para tabelas
+1. [Vídeo meu usos do espaço e visualizações comuns para tabelas](https://youtu.be/IeUvmlg-oP4)
 <!-- 1. Vídeo com mais exemplos reconhecendo marcas e canais -->
 
 ### Faça
 1. [Exercício desconstruindo visualizações em marcas e canais](https://canvas.instructure.com/courses/2189805/modules/items/33781799)
-1. [Exercício desconstruindo o uso de espaço em visualizações](https://canvas.instructure.com/courses/2189805/)
+1. [Exercício desconstruindo o uso de espaço em visualizações](https://canvas.instructure.com/courses/2189805/quizzes/6007052)
 1. Exercício em grupo criando a mesma visualização em 3 ferramentas diferentes dentre: Flourish, Datawrapper, Tableau ou Data Illustrator.
 
 ### Adicional
