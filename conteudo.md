@@ -159,7 +159,9 @@ Ao fim dessas semanas queremos conseguir:
 ### Adicional
 [One Chart, Nine Tools – Revisited](https://lisacharlotterost.de/datavistools-revisited), de Lisa Charlotte Rost.
 
-## Semana 5: D3, mais sobre marcas e canais
+<hr/>
+
+## Semana 6: D3, mais sobre marcas e canais
 
 Ao fim dessas semanas queremos conseguir:
 * Criar uma visualização simples com D3.js em um notebook Observable.
@@ -167,9 +169,11 @@ Ao fim dessas semanas queremos conseguir:
 dos tabulares e suas decisões de design.
 * Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
 
+<br/>
+
 ### Leia/assista
-1. [/vis-ppgcc/2020-09-11-observable-e-js](Uma introdução ao Observable e a notebooks com javascript.)
-1. [/vis-ppgcc/2020-09-13-intro-d3](Essa série de notebooks com uma introdução a D3)
+1. [Uma introdução ao Observable e a notebooks com javascript.](/vis-ppgcc/2020-09-11-observable-e-js)
+1. [Essa série de notebooks com uma introdução a D3](/vis-ppgcc/2020-09-13-intro-d3)
 1. Um vídeo comentando os notebooks de introdução a D3
 1. Um vídeo comentando escolhas de marcas e canais em visualizações comuns
 

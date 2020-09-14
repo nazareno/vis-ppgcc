@@ -2,6 +2,9 @@
 layout: post
 title: Observable e Javascript
 subtitle: Nossa plataforma
+cover-img: /assets/img/observable.png
+thumbnail-img: /assets/img/observable.png
+share-img: /assets/img/observable.png
 tags: [ferramentas]
 published: true
 ---
