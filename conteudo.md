@@ -137,8 +137,12 @@ Ao fim dessa semana queremos:
 
 <br>
 
-## Semana 4: Marcas, canais e dados tabulares
+## Semanas 4 e 5: Marcas, canais e dados tabulares
 
+Ao fim dessas semanas queremos conseguir:
+* Explicar uma visualização de dados a partir das escolhas de marcas e canais de percepção que foram usadas no design.
+* Comparar e criticar escolhas de usos de marcas e canais (principalmente de posição) para apoiar uma mesma tarefa em um conjunto de dados.
+* Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
 
 ### Leia/assista
 1. [Capítulo de Munzner sobre Marcas e Canais](https://canvas.instructure.com/courses/2189805/modules/items/36234333). Tem também um resumo legal [na primeira seção dessa página](https://www.ibm.com/design/v1/language/experience/data-visualization/visualization/) do IBM Design Language.
@@ -155,14 +159,28 @@ Ao fim dessa semana queremos:
 ### Adicional
 [One Chart, Nine Tools – Revisited](https://lisacharlotterost.de/datavistools-revisited), de Lisa Charlotte Rost.
 
-## Semana 5: Ferramentas
+## Semana 5: D3, mais sobre marcas e canais
+
+Ao fim dessas semanas queremos conseguir:
+* Criar uma visualização simples com D3.js em um notebook Observable.
+* Reconhecer um repertório de nomes comuns de visualizações de da
+dos tabulares e suas decisões de design.
+* Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
+
+### Leia/assista
+1. [/vis-ppgcc/2020-09-11-observable-e-js](Uma introdução ao Observable e a notebooks com javascript.)
+1. [/vis-ppgcc/2020-09-13-intro-d3](Essa série de notebooks com uma introdução a D3)
+1. Um vídeo comentando os notebooks de introdução a D3
+1. Um vídeo comentando escolhas de marcas e canais em visualizações comuns
 
 ### Faça
-1. Disseque 2 visualizações do Viz Catalogue e 1 do Xenographics
-1. Disseque uma visualização complexa
+1. Quiz sobre D3
+1. Uma primeira visualização com D3 e Observable
+1. Dissequem em grupo 2 visualizações do Viz Catalogue e 1 do [Xenographics](https://xeno.graphics/)
 
 ### Adicional
-1. Se perca um pouco no [Xenographics](https://xeno.graphics/)
+1. Se perca no Xenographics
+1. A galeria de exemplos do D3 é bem impressionante
 
 ## Semana 6: Laboratório de Visualização
 
