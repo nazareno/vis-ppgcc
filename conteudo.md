@@ -186,20 +186,19 @@ dos tabulares e suas decisões de design.
 1. Se perca no Xenographics
 1. A galeria de exemplos do D3 é bem impressionante
 
-## Semana 6: Laboratório de Visualização
+## Semana 7: Laboratório de Visualização
 
-## Semana 7: Interação e múltiplas visões
+## Semana 8: Interação e múltiplas visões
 
-## Semana 8: Narrativas
+## Semana 9: Narrativas
 1. [Useful junk? The Effects of Visual Embellishment on
 Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
 1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
 
-## Semana 9: Laboratório 2 de visualização
-## Semana 10: Discussão de textos sobre Visualização
-## Semana 11: Mapas
-## Semana 12: Cores
-## Semana 13: Grafos
-## Semana 14: Mais grafos
-## Semana 15: Conversas com praticantes
-## Semana 16: Projeto
+## Semana : Laboratório 2 de visualização
+## Semana : Discussão de textos sobre Visualização
+## Semana : Mapas
+## Semana : Cores
+## Semana : Grafos
+## Semana : Mais grafos
+## Semana : Projeto e Conversas com praticantes
