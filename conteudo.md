@@ -178,9 +178,9 @@ dos tabulares e suas decisões de design.
 1. Um vídeo comentando escolhas de marcas e canais em visualizações comuns
 
 ### Faça
-1. Quiz sobre D3
+1. [Quiz sobre D3](https://canvas.instructure.com/courses/2189805/modules/items/37008204)
 1. Uma primeira visualização com D3 e Observable
-1. Dissequem em grupo 2 visualizações do Viz Catalogue e 1 do [Xenographics](https://xeno.graphics/)
+1. [Disseque em grupo](https://canvas.instructure.com/courses/2189805/modules/items/37008023) 2 visualizações do Viz Catalogue (ou datavizproject) e 1 do [Xenographics](https://xeno.graphics/)
 
 ### Adicional
 1. Se perca no Xenographics
