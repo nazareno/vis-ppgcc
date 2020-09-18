@@ -175,7 +175,7 @@ dos tabulares e suas decisões de design.
 1. [Uma introdução ao Observable e a notebooks com javascript.](/vis-ppgcc/2020-09-11-observable-e-js)
 1. [Essa série de notebooks com uma introdução a D3](/vis-ppgcc/2020-09-13-intro-d3)
 1. Um vídeo comentando os notebooks de introdução a D3
-1. Um vídeo comentando escolhas de marcas e canais em visualizações comuns
+1. [Vídeo comentando escolhas de marcas e canais em visualizações comuns](https://youtu.be/MSqCQNNRthE) (32 mins).
 
 ### Faça
 1. [Quiz sobre D3](https://canvas.instructure.com/courses/2189805/modules/items/37008204)
