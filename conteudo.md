@@ -165,8 +165,7 @@ Ao fim dessas semanas queremos conseguir:
 
 Ao fim dessas semanas queremos conseguir:
 * Criar uma visualização simples com D3.js em um notebook Observable.
-* Reconhecer um repertório de nomes comuns de visualizações de da
-dos tabulares e suas decisões de design.
+* Reconhecer um repertório de nomes comuns de visualizações de dados tabulares e suas decisões de design.
 * Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
 
 <br/>
@@ -186,7 +185,28 @@ dos tabulares e suas decisões de design.
 1. Se perca no Xenographics
 1. A galeria de exemplos do D3 é bem impressionante
 
-## Semana 7: Laboratório de Visualização
+<hr/>
+
+## Semana 7: Além dos dados + Laboratório de Visualização
+
+Ao fim dessa semana queremos conseguir:
+* Criar visualizações mais completas com D3.js, incluindo escalas, nomes nos eixos e anotações.
+* Distinguir e escolher entre escalas de cores para dados quantitativos.
+
+<br/>
+
+### Leia/assista
+1. Sobre eixos e legendas com D3
+1. Anotações com D3
+1. O básico de cores para visualização de dados tabulares
+
+### Faça
+1. [Laboratório 1 de visualização de dados](https://docs.google.com/document/d/1R85UlK5P4DmAKOervFI0EVTaxGE4wRJ-Y16j-3Ko1w0/edit). Links para submeter partes 1 e 2 no Canvas.
+1. [Quiz sobre cores]()
+1. Compare as abordagens e visualizações sua e de 2 colegas
+
+### Adicional
+
 
 ## Semana 8: Interação e múltiplas visões
 
