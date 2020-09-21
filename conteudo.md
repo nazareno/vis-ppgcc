@@ -196,7 +196,7 @@ Ao fim dessa semana queremos conseguir:
 <br/>
 
 ### Leia/assista
-1. Sobre eixos e legendas com D3
+1. [Notebook sobre eixos e legendas com D3](https://observablehq.com/@nazareno/eixos)
 1. Anotações com D3
 1. O básico de cores para visualização de dados tabulares
 
@@ -206,7 +206,7 @@ Ao fim dessa semana queremos conseguir:
 1. Compare as abordagens e visualizações sua e de 2 colegas
 
 ### Adicional
-
+1. [The Unspoken Rules of Visualization (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation)
 
 ## Semana 8: Interação e múltiplas visões
 
