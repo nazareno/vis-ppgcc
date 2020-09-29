@@ -193,12 +193,9 @@ Ao fim dessa semana queremos conseguir:
 * Criar visualizações mais completas com D3.js, incluindo escalas, nomes nos eixos e anotações.
 * Distinguir e escolher entre escalas de cores para dados quantitativos.
 
-<br/>
-
 ### Leia/assista
 1. [Notebook sobre eixos e legendas com D3](https://observablehq.com/@nazareno/eixos)
-1. Anotações com D3
-1. O básico de cores para visualização de dados tabulares
+1. [Notebook sobre anotações com D3](https://observablehq.com/@nazareno/anotacoes)
 
 ### Faça
 1. [Laboratório 1 de visualização de dados](https://docs.google.com/document/d/1R85UlK5P4DmAKOervFI0EVTaxGE4wRJ-Y16j-3Ko1w0/edit). Links para submeter partes 1 e 2 no Canvas.
@@ -208,7 +205,28 @@ Ao fim dessa semana queremos conseguir:
 ### Adicional
 1. [The Unspoken Rules of Visualization (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation)
 
+<hr/>
+
 ## Semana 8: Interação e múltiplas visões
+
+Ao fim dessa semana queremos conseguir:
+* Reconhecer e descrever gestos e técnicas de interação em visualização de dados.
+* Implementar uma visualização com interação simples usando D3.js.
+
+### Leia/assista
+1. [Toward a Deeper Understanding of the Role of
+Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis07-interaction.pdf), de Yi e colegas.
+1. [Post aqui no site sobre gestos vs. técnicas de interação](/vis-ppgcc/2020-09-29-gestos-tecnicas).
+1. [Notebook sobre interação com D3](https://observablehq.com/@d3/learn-d3-interaction) (e  links).
+1. Extra de semanas anteriores: [o básico de cores para visualização de dados tabulares](https://www.youtube.com/watch?v=xpPjPmQOy3k).
+
+### Faça
+1. Quiz sobre interação.
+1. Quiz sobre cores para dados tabulares.
+1. Adicione interação e revise as cores de sua visualização das queimadas.
+1. Descreva em grupo as técnicas de interação vistas [em um desses exemplos](https://canvas.instructure.com/courses/2189805/pages/exemplos-com-interacao-para-dissecar?module_item_id=33781831).
+
+<hr/>
 
 ## Semana 9: Narrativas
 1. [Useful junk? The Effects of Visual Embellishment on
@@ -217,6 +235,8 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 
 ## Semana : Laboratório 2 de visualização
 ## Semana : Discussão de textos sobre Visualização
+<!-- * Reconhecer e descrever o uso de múltiplas visões combinadas. -->
+
 ## Semana : Mapas
 ## Semana : Cores
 ## Semana : Grafos
