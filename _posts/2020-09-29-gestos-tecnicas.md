@@ -5,7 +5,7 @@ subtitle: Os nomes e os conceitos
 cover-img: /assets/img/img_3361_small.jpg
 thumbnail-img: /assets/img/img_3361_small.jpg
 share-img: /assets/img/img_3361_small.jpg
-tags: [ferramentas, d3]
+tags: [definições]
 ---
 
 Ao tentar categorizar e reconhecer semelhanças e diferenças em visualizações interativas, ajuda separar dois conceitos que nem sempre são esclarecidos: *gestos* ou eventos vs. *técnicas* de interação.

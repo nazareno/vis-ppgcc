@@ -207,7 +207,7 @@ Ao fim dessa semana queremos conseguir:
 
 <hr/>
 
-## Semana 8: Interação e múltiplas visões
+## Semana 8: Interação e um pouco de cores
 
 Ao fim dessa semana queremos conseguir:
 * Reconhecer e descrever gestos e técnicas de interação em visualização de dados.
