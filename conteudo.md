@@ -63,13 +63,9 @@ Conteúdo:
 1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica com lápis e papel e sobre small data.
 1. *[O mapa não é o território](https://fs.blog/2015/11/map-and-territory/)* é uma metáfora importante para visualização. Se fizéssemos mapas que são territórios, cairíamos [nesse conto de Borges](https://poro.redezero.org/biblioteca/textos-referencias/do-rigor-na-ciencia-jorge-luis-borges/).
 
-<br>
-
---------------
+<br><hr/><br>
 
 ## Semana 2: Sobre dados
-
-Ao fim dessa semana, você deve conseguir:
 * Descrever o conjunto de dados usado em uma visualização
 * Enumerar para uma viz/conjunto os dados presentes, com sua semântica e seu tipo
 * Identificar tarefas de análise mais/menos facilitadas por uma vis
@@ -106,8 +102,7 @@ Link no canvas.
 * [On the Theory of Scales of Measurement](https://psychology.okstate.edu/faculty/jgrice/psyc3214/Stevens_FourScales_1946.pdf). S. S. Stevens na Science em 1946 propondo as escalas que até hoje aparecem na maior parte dos livros-texto.
 * [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*.
 
-<br>
-<hr/>
+<br><hr/><br>
 
 ## Semana 3: Visão crítica de dados e Visualização
 
@@ -136,12 +131,9 @@ Ao fim dessa semana queremos:
 1. [Datasheets for datasets](https://arxiv.org/pdf/1803.09010.pdf): uma abordagem para descrever contextos de conjuntos de dados.
 1. [Lista de leituras](http://ethics.fast.ai/syllabus/) de um curso do fast.ai sobre dados e Ética.
 
-<br>
-<hr/>
+<br><hr/><br>
 
 ## Semanas 4 e 5: Marcas, canais e dados tabulares
-
-Ao fim dessas semanas queremos conseguir:
 * Explicar uma visualização de dados a partir das escolhas de marcas e canais de percepção que foram usadas no design.
 * Comparar e criticar escolhas de usos de marcas e canais (principalmente de posição) para apoiar uma mesma tarefa em um conjunto de dados.
 * Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
@@ -161,17 +153,12 @@ Ao fim dessas semanas queremos conseguir:
 ### Adicional
 [One Chart, Nine Tools – Revisited](https://lisacharlotterost.de/datavistools-revisited), de Lisa Charlotte Rost.
 
-<br/>
-<hr/>
+<br><hr/><br>
 
 ## Semana 6: D3, mais sobre marcas e canais
-
-Ao fim dessas semanas queremos conseguir:
 * Criar uma visualização simples com D3.js em um notebook Observable.
 * Reconhecer um repertório de nomes comuns de visualizações de dados tabulares e suas decisões de design.
 * Reconhecer como marcas e canais são manipuladas por diferentes ferramentas baseadas em templates.
-
-<br/>
 
 ### Leia/assista
 1. [Uma introdução ao Observable e a notebooks com javascript.](/vis-ppgcc/2020-09-11-observable-e-js)
@@ -188,8 +175,7 @@ Ao fim dessas semanas queremos conseguir:
 1. Se perca no Xenographics
 1. A galeria de exemplos do D3 é bem impressionante
 
-<br/>
-<hr/>
+<br><hr/><br>
 
 ## Semana 7: Além dos dados + Laboratório de Visualização
 
@@ -209,7 +195,7 @@ Ao fim dessa semana queremos conseguir:
 ### Adicional
 1. [The Unspoken Rules of Visualization (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation)
 
-<br/>
+<br><hr/><br>
 
 ## Semana 8: Interação e um pouco de cores
 
@@ -225,12 +211,12 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 1. Extra de semanas anteriores: [o básico de cores para visualização de dados tabulares](https://www.youtube.com/watch?v=xpPjPmQOy3k).
 
 ### Faça
-1. Quiz sobre interação.
+1. [Quiz sobre interação](https://canvas.instructure.com/courses/2189805/modules/items/33781832)
 1. Quiz sobre cores para dados tabulares.
 1. Adicione interação e revise as cores de sua visualização das queimadas.
 1. Descreva em grupo as técnicas de interação vistas [em um desses exemplos](https://canvas.instructure.com/courses/2189805/pages/exemplos-com-interacao-para-dissecar?module_item_id=33781831).
 
-<hr/>
+<br><hr/><br>
 
 ## Semana 9: Narrativas
 1. [Useful junk? The Effects of Visual Embellishment on
