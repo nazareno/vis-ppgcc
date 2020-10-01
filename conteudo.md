@@ -107,6 +107,7 @@ Link no canvas.
 * [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*.
 
 <br>
+<hr/>
 
 ## Semana 3: Visão crítica de dados e Visualização
 
@@ -136,6 +137,7 @@ Ao fim dessa semana queremos:
 1. [Lista de leituras](http://ethics.fast.ai/syllabus/) de um curso do fast.ai sobre dados e Ética.
 
 <br>
+<hr/>
 
 ## Semanas 4 e 5: Marcas, canais e dados tabulares
 
@@ -159,6 +161,7 @@ Ao fim dessas semanas queremos conseguir:
 ### Adicional
 [One Chart, Nine Tools – Revisited](https://lisacharlotterost.de/datavistools-revisited), de Lisa Charlotte Rost.
 
+<br/>
 <hr/>
 
 ## Semana 6: D3, mais sobre marcas e canais
@@ -185,6 +188,7 @@ Ao fim dessas semanas queremos conseguir:
 1. Se perca no Xenographics
 1. A galeria de exemplos do D3 é bem impressionante
 
+<br/>
 <hr/>
 
 ## Semana 7: Além dos dados + Laboratório de Visualização
@@ -205,7 +209,7 @@ Ao fim dessa semana queremos conseguir:
 ### Adicional
 1. [The Unspoken Rules of Visualization (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation)
 
-<hr/>
+<br/>
 
 ## Semana 8: Interação e um pouco de cores
 
