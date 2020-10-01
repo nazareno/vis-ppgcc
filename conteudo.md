@@ -198,8 +198,6 @@ Ao fim dessa semana queremos conseguir:
 <br><hr/><br>
 
 ## Semana 8: Interação e um pouco de cores
-
-Ao fim dessa semana queremos conseguir:
 * Reconhecer e descrever gestos e técnicas de interação em visualização de dados.
 * Implementar uma visualização com interação simples usando D3.js.
 
@@ -213,8 +211,8 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 ### Faça
 1. [Quiz sobre interação](https://canvas.instructure.com/courses/2189805/modules/items/33781832)
 1. Quiz sobre cores para dados tabulares.
-1. Adicione interação e revise as cores de sua visualização das queimadas.
-1. Descreva em grupo as técnicas de interação vistas [em um desses exemplos](https://canvas.instructure.com/courses/2189805/pages/exemplos-com-interacao-para-dissecar?module_item_id=33781831).
+1. [Adicione interação e revise as cores de sua visualização das queimadas](https://canvas.instructure.com/courses/2189805/modules/items/37785882).
+1. [Descreva em grupo as técnicas de interação vistas em uma dessas visualizações](https://canvas.instructure.com/courses/2189805/assignments/18009091)
 
 <br><hr/><br>
 
