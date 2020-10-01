@@ -63,7 +63,7 @@ Conteúdo:
 1. [Dear Data](http://www.dear-data.com/theproject), um projeto de visualização de dados analógica com lápis e papel e sobre small data.
 1. *[O mapa não é o território](https://fs.blog/2015/11/map-and-territory/)* é uma metáfora importante para visualização. Se fizéssemos mapas que são territórios, cairíamos [nesse conto de Borges](https://poro.redezero.org/biblioteca/textos-referencias/do-rigor-na-ciencia-jorge-luis-borges/).
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 2: Sobre dados
 * Descrever o conjunto de dados usado em uma visualização
@@ -102,7 +102,7 @@ Link no canvas.
 * [On the Theory of Scales of Measurement](https://psychology.okstate.edu/faculty/jgrice/psyc3214/Stevens_FourScales_1946.pdf). S. S. Stevens na Science em 1946 propondo as escalas que até hoje aparecem na maior parte dos livros-texto.
 * [Nominal, Ordinal, Interval, and Ratio Typologies are Misleading](https://www.cs.uic.edu/~wilkinson/Publications/stevens.pdf), onde Velleman e Wilkinson criticam o uso cego dessas escalas como guias em manuais e argumentam que *Scale type, as defined by Stevens, is not an attribute of the data, but rather depends upon the questions we intend to ask of the data and upon any additional information we may have. It may change due to transformation of the data, it may change with the addition of new information that helps us to interpret the data differently, or it may change simply because of the questions we choose to ask*.
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 3: Visão crítica de dados e Visualização
 * Perceber tarefas abstratas ao interagir com uma visualização
@@ -129,7 +129,7 @@ Link no canvas.
 1. [Datasheets for datasets](https://arxiv.org/pdf/1803.09010.pdf): uma abordagem para descrever contextos de conjuntos de dados.
 1. [Lista de leituras](http://ethics.fast.ai/syllabus/) de um curso do fast.ai sobre dados e Ética.
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semanas 4 e 5: Marcas, canais e dados tabulares
 * Explicar uma visualização de dados a partir das escolhas de marcas e canais de percepção que foram usadas no design.
@@ -151,7 +151,7 @@ Link no canvas.
 ### Adicional
 [One Chart, Nine Tools – Revisited](https://lisacharlotterost.de/datavistools-revisited), de Lisa Charlotte Rost.
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 6: D3, mais sobre marcas e canais
 * Criar uma visualização simples com D3.js em um notebook Observable.
@@ -173,7 +173,7 @@ Link no canvas.
 1. Se perca no Xenographics
 1. A galeria de exemplos do D3 é bem impressionante
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 7: Além dos dados + Laboratório de Visualização
 * Criar visualizações mais completas com D3.js, incluindo escalas, nomes nos eixos e anotações.
@@ -191,7 +191,7 @@ Link no canvas.
 ### Adicional
 1. [The Unspoken Rules of Visualization (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation)
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 8: Interação e um pouco de cores
 * Reconhecer e descrever gestos e técnicas de interação em visualização de dados.
@@ -212,10 +212,10 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 
 ### Extra
 1. [Um catálogo de visualizações interativas](http://mobilev.is/tag/88) para dispositivos móveis que tem também uma [lista de boas práticas](http://patterns.mobilev.is/), várias das quais envolvem interação.
-1. [Um texto comentando o uso de gestos em telas touch](https://medium.com/swlh/mobile-data-visualization-design-18845fe6b660) para interagir com visualização. 
+1. [Um texto comentando o uso de gestos em telas touch](https://medium.com/swlh/mobile-data-visualization-design-18845fe6b660) para interagir com visualização.
 
 
-<br/><hr/><br/>
+<br/><br/>
 
 ## Semana 9: Narrativas
 1. [Useful junk? The Effects of Visual Embellishment on
