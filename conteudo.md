@@ -105,8 +105,6 @@ Link no canvas.
 <br/><hr/><br/>
 
 ## Semana 3: Visão crítica de dados e Visualização
-
-Ao fim dessa semana queremos:
 * Perceber tarefas abstratas ao interagir com uma visualização
 * Identificar e criticar estruturas de poder na produção de dados e em seus usos
 * Contrastar abordagens mais e menos humanizadas para análise e visualização de dados
@@ -178,8 +176,6 @@ Ao fim dessa semana queremos:
 <br/><hr/><br/>
 
 ## Semana 7: Além dos dados + Laboratório de Visualização
-
-Ao fim dessa semana queremos conseguir:
 * Criar visualizações mais completas com D3.js, incluindo escalas, nomes nos eixos e anotações.
 * Distinguir e escolher entre escalas de cores para dados quantitativos.
 
@@ -213,6 +209,11 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 1. Quiz sobre cores para dados tabulares.
 1. [Adicione interação e revise as cores de sua visualização das queimadas](https://canvas.instructure.com/courses/2189805/modules/items/37785882).
 1. [Descreva em grupo as técnicas de interação vistas em uma dessas visualizações](https://canvas.instructure.com/courses/2189805/assignments/18009091)
+
+### Extra
+1. [Um catálogo de visualizações interativas](http://mobilev.is/tag/88) para dispositivos móveis que tem também uma [lista de boas práticas](http://patterns.mobilev.is/), várias das quais envolvem interação.
+1. [Um texto comentando o uso de gestos em telas touch](https://medium.com/swlh/mobile-data-visualization-design-18845fe6b660) para interagir com visualização. 
+
 
 <br/><hr/><br/>
 
