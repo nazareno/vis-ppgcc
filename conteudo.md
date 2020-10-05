@@ -206,7 +206,7 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 
 ### Faça
 1. [Quiz sobre interação](https://canvas.instructure.com/courses/2189805/modules/items/33781832)
-1. Quiz sobre cores para dados tabulares.
+<!-- 1. Quiz sobre cores para dados tabulares. -->
 1. [Adicione interação e revise as cores de sua visualização das queimadas](https://canvas.instructure.com/courses/2189805/modules/items/37785882).
 1. [Descreva em grupo as técnicas de interação vistas em uma dessas visualizações](https://canvas.instructure.com/courses/2189805/assignments/18009091)
 
@@ -218,6 +218,22 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 <br/><br/>
 
 ## Semana 9: Narrativas
+* Reconhecer narrativas baseadas em visualizações de dados e padrões comuns para essas narrativas
+* Criticar decisões de estruturas narrativas e propor novas estruturas para um contexto
+* Projetar uma narrativa baseada em datavis baseada em técnicas comuns de narrativa
+
+### Leia/assista
+1. [Emerging and Recurring Data-Driven Storytelling Techniques: Analysis of a Curated Collection of Recent Stories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/MSR-TR-2016-14-Storytelling-Techniques.pdf), de Stolper e colegas (sugiro pular a seção 6).
+1. [O corpus de visualizações narrativas de Stolper](https://www.cc.gatech.edu/gvu/ii/dds/charts/corpus.html) e [o de Segel e Heer](https://www.cc.gatech.edu/gvu/ii/dds/charts/segel.html) que eles re-analisam.
+1. Seções 4.3 em diante de [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf).
+
+### Faça
+1. Quiz sobre narrativas
+1. Preencha uma linha na nossa planilha colaborativa inspirada na de Stolper. 
+1. Proponha em grupo duas narrativas com estruturas diferentes usando algum dos conjuntos de dados com os quais já trabalhamos.
+
+### Extra
+1. [Cartões de padrões narrativos em contação de histórias com dados](http://napa-cards.net/#info) <- Muito bom!
 1. [Useful junk? The Effects of Visual Embellishment on
 Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
 1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
