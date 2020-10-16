@@ -229,16 +229,22 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 
 ### Faça
 1. Quiz sobre narrativas
-1. Preencha uma linha na nossa planilha colaborativa inspirada na de Stolper. 
+1. Preencha uma linha na nossa planilha colaborativa inspirada na de Stolper.
 1. Proponha em grupo duas narrativas com estruturas diferentes usando algum dos conjuntos de dados com os quais já trabalhamos.
 
 ### Extra
 1. [Cartões de padrões narrativos em contação de histórias com dados](http://napa-cards.net/#info) <- Muito bom!
+1. [Communicating with interactive articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 1. [Useful junk? The Effects of Visual Embellishment on
 Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
 1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
 
-## Semana : Laboratório 2 de visualização
+## Semana 10 : Laboratório 2 de visualização
+* Criar uma narrativa baseada em dados e visualizações com d3.js.
+
+### Faça
+1. [Laboratório 2 de visualização de dados](https://docs.google.com/document/d/1Qs4bGaREZBc4WOXwgTqOXuad_S0AE4oNnCJmXUJuyNc/edit?usp=sharing)
+
 ## Semana : Discussão de textos sobre Visualização
 <!-- * Reconhecer e descrever o uso de múltiplas visões combinadas. -->
 
