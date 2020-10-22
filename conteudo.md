@@ -234,6 +234,8 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 
 ### Extra
 1. [Cartões de padrões narrativos em contação de histórias com dados](http://napa-cards.net/#info) <- Muito bom!
+1. [Data Comics](https://www.datacomics.net/): visualizações inspiradas pela linguagem narrativa dos quadrinhos.
+1. [Mais um catálogo](https://rethinkingvis.com/#all) com mais uma categorização de narrativas.
 1. [Communicating with interactive articles](https://distill.pub/2020/communicating-with-interactive-articles/)
 1. [Useful junk? The Effects of Visual Embellishment on
 Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
