@@ -257,7 +257,7 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 1. [Cap. de Munzner sobre mapas](https://canvas.instructure.com/courses/2189805/modules/items/38786783).
 1. [What to consider when creating choropleth maps](https://academy.datawrapper.de/article/134-what-to-consider-when-creating-choropleth-maps), do Datawrapper.
 1. [Methods of comparison, compared](https://observablehq.com/@mbostock/methods-of-comparison-compared), Mike Bostock
-1. [Vídeo sobre visualização de dados em mapas](https://youtu.be/VZIPnagtQEg).
+1. [Vídeo sobre visualização de dados em mapas](https://youtu.be/j3HJsmFubBY).
 1. [Notebooks sobre mapas](em breve).
 1. Notebook sobre escalas de cores com percepção linear (em breve).
 
