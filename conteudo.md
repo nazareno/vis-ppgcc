@@ -255,7 +255,7 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 
 ### Leia/assista
 1. [Cap. de Munzner sobre mapas](https://canvas.instructure.com/courses/2189805/modules/items/38786783).
-1. [Vídeo sobre visualização de dados em mapas](em breve).
+1. [Vídeo sobre visualização de dados em mapas](https://youtu.be/VZIPnagtQEg).
 1. [Notebooks sobre mapas](em breve).
 1. Notebook sobre escalas de cores com percepção linear (em breve).
 1. [Dicas de ferramentas para criar escalas de cores](https://docs.google.com/presentation/d/19Sa16Jwptd3p9oX571C8_TulunQMLArJCDmXkPDG7ZI/edit#slide=id.g6b18ca206b_0_100)
