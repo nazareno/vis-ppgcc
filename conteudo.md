@@ -250,34 +250,41 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 ## Semana 11: Mapas e um pouco mais de cores
 * Descrever os desafios particulares da visualização de dados em mapas
 * Reconhecer vantagens e desvantagens das alternativas de design para visualizações mais comuns com mapas
-* Criar escalas de cores perceptualmente precisas e lidando com situações mais desafiadoras
 * Construir uma visualização com mapas na web
 
 ### Leia/assista
 1. [Cap. de Munzner sobre mapas](https://canvas.instructure.com/courses/2189805/modules/items/38786783).
 1. [What to consider when creating choropleth maps](https://academy.datawrapper.de/article/134-what-to-consider-when-creating-choropleth-maps), do Datawrapper.
 1. [Methods of comparison, compared](https://observablehq.com/@mbostock/methods-of-comparison-compared), Mike Bostock
-1. [Vídeo sobre visualização de dados em mapas](https://youtu.be/j3HJsmFubBY).
-1. [Notebooks sobre mapas](em breve).
-1. Notebook sobre escalas de cores com percepção linear (em breve).
+1. [Vídeo sobre visualização de dados em mapas](https://youtu.be/VZIPnagtQEg).
+1. [Notebooks sobre mapas](https://observablehq.com/collection/@nazareno/d3-mapas).
 
 ### Faça
 1. [Quiz sobre mapas](em breve)
-1. [Quiz sobre cores](em breve)
 1. [Crie dois mapas com visualização de dados](em breve).
-1. [Escolha em grupo escalas de cores para os mapas nesse notebook]( )
 
 ### Extra
 1. [Dicas de ferramentas para criar escalas de cores](https://docs.google.com/presentation/d/19Sa16Jwptd3p9oX571C8_TulunQMLArJCDmXkPDG7ZI/edit#slide=id.g6b18ca206b_0_100)
 1. [Veja a parte de *dots* e *maps* na galeria do D3](https://observablehq.com/@d3/gallery)
 1. [Marcos históricos de visualizações em mapas](http://www.datavis.ca/milestones/index.php?query=Cartography)
 1. [Uma boa lista de vis em mapas](http://visualoop.com/blog/94494/digital-cartography-134)
+
+## Semana 12: Cores
+* Criar escalas de cores perceptualmente precisas e lidando com situações mais desafiadoras
+
+### Leia/assista
+1. Notebook sobre escalas de cores com percepção linear (em breve).
+
+### Faça
+1. [Quiz sobre cores](em breve)
+1. [Escolha em grupo escalas de cores para os mapas nesse notebook]( )
+
+### Extra
 1. [Como escolher cores mais bonitas](https://blog.datawrapper.de/beautifulcolors) para a sua visualização, do blog do DataWrapper.
 1. [Treino divertido de percepção com cores](https://color.method.ac/)
 1. [Muito mais sobre ferramentas e cores](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/), do blog do DataWrapper.
 
 
-## Semana : Cores
 ## Semana : Grafos
 ## Semana : Mais grafos
 ## Semana : Projeto e Conversas com praticantes
