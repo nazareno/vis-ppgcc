@@ -241,11 +241,15 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Baterman10.pdf). Bateman e colegas.
 1. [Trechos de um livro de Tufte](https://www.cs.unm.edu/~pgk/IVCDs14/minitufte.pdf) ditando como criar visualizações sem tralha (junk), e outros mandamentos dele.
 
+<br/><br/>
+
 ## Semana 10 : Laboratório 2 de visualização
 * Criar uma narrativa baseada em dados e visualizações com d3.js.
 
 ### Faça
 1. [Laboratório 2 de visualização de dados](https://docs.google.com/document/d/1Qs4bGaREZBc4WOXwgTqOXuad_S0AE4oNnCJmXUJuyNc/edit?usp=sharing)
+
+<br/><br/>
 
 ## Semana 11: Mapas e um pouco mais de cores
 * Descrever os desafios particulares da visualização de dados em mapas
@@ -264,16 +268,18 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 1. [Crie dois mapas com visualização de dados](em breve).
 
 ### Extra
-1. [Dicas de ferramentas para criar escalas de cores](https://docs.google.com/presentation/d/19Sa16Jwptd3p9oX571C8_TulunQMLArJCDmXkPDG7ZI/edit#slide=id.g6b18ca206b_0_100)
 1. [Veja a parte de *dots* e *maps* na galeria do D3](https://observablehq.com/@d3/gallery)
 1. [Marcos históricos de visualizações em mapas](http://www.datavis.ca/milestones/index.php?query=Cartography)
 1. [Uma boa lista de vis em mapas](http://visualoop.com/blog/94494/digital-cartography-134)
+
+<br/><br/>
 
 ## Semana 12: Cores
 * Criar escalas de cores perceptualmente precisas e lidando com situações mais desafiadoras
 
 ### Leia/assista
 1. Notebook sobre escalas de cores com percepção linear (em breve).
+1. [Dicas de ferramentas para criar escalas de cores](https://docs.google.com/presentation/d/19Sa16Jwptd3p9oX571C8_TulunQMLArJCDmXkPDG7ZI/edit#slide=id.g6b18ca206b_0_100)
 
 ### Faça
 1. [Quiz sobre cores](em breve)
