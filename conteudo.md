@@ -226,6 +226,8 @@ Interaction in Information Visualization](https://www.cc.gatech.edu/~stasko/pape
 1. [Emerging and Recurring Data-Driven Storytelling Techniques: Analysis of a Curated Collection of Recent Stories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/MSR-TR-2016-14-Storytelling-Techniques.pdf), de Stolper e colegas (sugiro pular a seção 6).
 1. [O corpus de visualizações narrativas de Stolper](https://www.cc.gatech.edu/gvu/ii/dds/charts/corpus.html) e [o de Segel e Heer](https://www.cc.gatech.edu/gvu/ii/dds/charts/segel.html) que eles re-analisam.
 1. Seções 4.3 em diante de [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf).
+1. [Some things I learned about data-driven storytelling in Schloss Dagstuhl](https://medium.com/data-driven-storytelling/some-things-i-learned-about-data-driven-story-telling-in-schlo%C3%9F-dagstuhl-b5ecfaef0910), Moritz Stefaner
+
 
 ### Faça
 1. Quiz sobre narrativas
@@ -265,7 +267,7 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 
 ### Faça
 1. [Quiz sobre mapas](em breve)
-1. [Crie dois mapas com visualização de dados](em breve).
+1. [Crie dois mapas com visualização de dados](https://canvas.instructure.com/courses/2189805/modules/items/39021069).
 
 ### Extra
 1. [Veja a parte de *dots* e *maps* na galeria do D3](https://observablehq.com/@d3/gallery)
@@ -291,6 +293,18 @@ Comprehension and Memorability of Charts](https://webspace.science.uu.nl/~telea0
 1. [Muito mais sobre ferramentas e cores](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/), do blog do DataWrapper.
 
 
-## Semana : Grafos
-## Semana : Mais grafos
+## Semana : Redes / grafos
+
+### Leia/assista
+1. [Capítulo 9 do livro de Munzner](https://canvas.instructure.com/courses/2189805/modules/items/39349792), sobre visualização de redes
+1. [Revisão sobre grafos e exemplo com nós e links x matriz de adjacência](https://visualgo.net/en/graphds)
+1. Vídeo sobre vis em redes (em breve)
+
+### Faça
+1. [Quiz desconstruindo redes](https://canvas.instructure.com/courses/2189805/modules/items/33781887)
+1. [Quiz sobre capítulo de Munzner](em breve)
+1. Uma visualização com o Gephi
+
+
+## Semana : Mais redes
 ## Semana : Projeto e Conversas com praticantes
